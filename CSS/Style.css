@@ -1,0 +1,64 @@
+.Titulo {
+
+    color: blue;
+    text-align: justify;
+
+}
+
+*{
+
+
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.Formulario{
+
+
+
+
+    background-color: antiquewhite;
+    width: 400px;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 50px;
+}
+
+.Formulario h1{
+
+
+    font-size: 35px;
+    margin: auto;
+    color: rgb(139, 113, 72);
+
+}
+
+.Entrada{     
+
+    width: 400px;
+    padding: 5px;
+    border-radius: 50px;
+    border: 1px solid rgb(70, 64, 53);
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.Borde{
+
+    border-radius: 15px;
+    border: 1px;
+}
+
+.Enviar{
+
+    padding: 6px;
+    margin-left: 145px;
+    border-radius: 5px;
+    background-color: rgb(139, 113, 72);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100px;
+    
+}
